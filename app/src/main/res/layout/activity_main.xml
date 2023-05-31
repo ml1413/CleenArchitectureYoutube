@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:paddingHorizontal="16dp"
-            android:text="Get Data" />
+            android:text="Get User Data" />
 
         <EditText
             android:id="@+id/et_data_text"
@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:paddingHorizontal="16dp"
-            android:text="SAVE DATA" />
+            android:text="SAVE USER NAME" />
 
     </LinearLayout>
 
